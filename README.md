@@ -19,5 +19,5 @@
 - 💭 NLP enabled Co-Pilot, take your thoughts into an interactive and expandable map, check out [Ideagraph](https://github.com/shlokj/ideagraph)
 - 💊 Counterfeit medicine detection with Computer Vision, check out [Filter The Fake](https://github.com/arjunloomba1311/Filter_The_Fake)
 - ⛑️ A web3 app to host the supply chain of medicines on the Ethereum Blockchain, check out [MediBlock](https://github.com/arjunloomba1311/MediBlock)
-- 📈 Deep Learning for Financial Markets, check out my paper [here](https://drive.google.com/drive/folders/1bkl-QdEeSfHZ6IvDdvgQ_6rjYgUHhyqy) 
+- 📈 Deep Learning for Financial Markets, check out my paper [here]([https://drive.google.com/drive/folders/1bkl-QdEeSfHZ6IvDdvgQ_6rjYgUHhyqy](https://drive.google.com/file/d/1aoNIxOyDuWF6arhZgPWGSgAlDhhIyCbR/view?usp=sharing)) 
 
