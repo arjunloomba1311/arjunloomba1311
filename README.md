@@ -11,3 +11,9 @@
 </a><a href="mailto:arjunrajloomba@g.ucla.edu"> <img height="25" width="25" src="https://cdn.simpleicons.org/gmail/#EA4335.svg" alt="gmail" title="gmail"/></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: puedo hablar un poco de español
+
+
+### Projects and Publications
+- Benchmarking scientific problem solving abilities of LLMs, check out our paper [here](https://openreview.net/forum?id=PJtwm0bBHn)
+- IOT smart locker system for lending and borrowing, checkout my [solution](https://devpost.com/software/lendit-0fh83x)
+
