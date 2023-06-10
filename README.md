@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:arjunrajloomba@g.ucla.edu">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/gmail.png" alt="Gmail" title="Gmail" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/gmail.svg" alt="Gmail" title="Gmail" width="25" height="25" />
 </a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: puedo hablar un poco de español
