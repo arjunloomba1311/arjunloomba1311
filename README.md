@@ -15,5 +15,5 @@
 
 ### Projects and Publications
 - Benchmarking scientific problem solving abilities of LLMs, check out our paper [here](https://openreview.net/forum?id=PJtwm0bBHn)
-- IOT smart locker system for lending and borrowing, check out my [solution](https://devpost.com/software/lendit-0fh83x)
+- IOT smart locker system for lending and borrowing, check out my solution on [Devpost](https://devpost.com/software/lendit-0fh83x)
 
