@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Bio
-- 💻 Software Engineer at [The Trade Desk ](https://www.thetradedesk.com/)
+- 💻 Software Engineer at [The Trade Desk ](https://www.thetradedesk.com/) | working on Monitoring and Observability systems
 - 🏫 Graduated with a CS degree from UCLA
 - 🌱 Worked at [ScAi Lab](https://scai.cs.ucla.edu/)
 - 💬 Ask me about scaling products and building infrastructure
